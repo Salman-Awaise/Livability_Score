@@ -1,11 +1,7 @@
-## Livability Score
-This project aims to predict property risk based on multiple environmental and infrastructure factors using machine learning techniques.
+### Livability Score
 
-1. Project Overview
-Real estate risks, such as crime rate, power outages, air quality, and neighborhood reviews, play a crucial role in determining property values and insurance policies. This project uses machine learning models to assess and predict the risk of a given property.
-
-2. Dataset
-The dataset used is train.csv, loaded from Google Drive. It contains various features related to property attributes, neighborhood safety, and environmental conditions.
+Project Overview
+This project aims to predict property risk based on various environmental and infrastructure factors using machine learning models. Real estate risks, such as crime rates, power outages, air quality, and neighborhood reviews, impact property values and insurance policies. The model assesses and predicts property risk levels.
 
 Features in the Dataset
 Property_Type - Categorical (House, Apartment, etc.)
